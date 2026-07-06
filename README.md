@@ -1,6 +1,7 @@
 Python Basico
 
 Temas tratados:
+
     Introducción:
         Tipos de datos
         Variables simples y compuestas
